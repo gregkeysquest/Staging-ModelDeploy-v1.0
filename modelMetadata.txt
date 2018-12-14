@@ -1,5 +1,5 @@
 model.owner = Greg Keys
-model.owner.lob = rental real estate
+model.owner.lob = pricing
 model.name = rental pricing prediction
 model.type = gradient boosting regression
 model.version = 1.1
