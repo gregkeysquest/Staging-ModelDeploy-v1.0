@@ -1,6 +1,7 @@
 model.owner = Greg Keys
-model.name = Rental Pricing Prediction
-model.type = Gradient Boosting Regression
+model.owner.lob = rental real estate
+model.name = rental pricing prediction
+model.type = gradient boosting regression
 model.version = 1.1
-model.description = This is to classify text for the yada yada applicaiton
+model.description = model predicts monthly price of rental if property is purchased
 model.microservice.endpoint=target
